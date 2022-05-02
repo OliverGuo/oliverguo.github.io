@@ -14,6 +14,12 @@ author: Muqi Guo
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Blog: "blog"
+  About Me: "aboutme"
+  
+  Resume: "resume"
+  Papers: "papers"
+  Project: "project"
 
 # --- Logo --- #
 
