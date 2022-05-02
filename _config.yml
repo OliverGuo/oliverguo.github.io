@@ -9,14 +9,17 @@
 title: Muqi Guo
 
 # Your name to show in the footer
-author: Muqi Guo
+author: 
+  name: Muqi Guo
+  github: OliverGuo
+  email: "guomuqi@grinnell.edu"
+
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   Blog: "blog"
   About Me: "aboutme"
-  
   Resume: "resume"
   Papers: "papers"
   Project: "project"
@@ -41,10 +44,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "guomuqi@grinnell.edu"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  medium: yourname
 #  reddit: yourname
-linkedin: "https://www.linkedin.com/in/muqi-guo-7b0163127/"
+linkedin: Muqi Guo
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -73,6 +75,7 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
+  github: true
   vk: false
 
 # How to display the link to your website in the footer
