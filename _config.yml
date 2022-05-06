@@ -15,11 +15,13 @@ author: Muqi Guo
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Blog: "blog"
+  
   About Me: "aboutme"
   Resume: "resume"
-  Papers: "papers"
   Project: "project"
+  Papers: "papers"
+  
+  #Blog: "blog"
 
 # --- Logo --- #
 
@@ -41,11 +43,12 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "guomuqi@grinnell.edu"
+  github: "OliverGuo"
 #  medium: yourname
 #  reddit: yourname
 linkedin: "https://www.linkedin.com/in/muqi-guo-7b0163127/"
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
+stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
@@ -63,7 +66,7 @@ linkedin: "https://www.linkedin.com/in/muqi-guo-7b0163127/"
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+#rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
@@ -77,7 +80,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "muqiguo.com"
+#url-pretty: "muqiguo.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
