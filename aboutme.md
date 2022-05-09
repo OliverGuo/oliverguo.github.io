@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Muqi Guo, I’m a junior student at Grinnell College, majoring in Computer Science with a minor in Linguistics. My interests lies in full-stack software engineering and I love creating beautiful data visualization applications. I’m currently working on a Shiny app for teaching Statistic student about conditional probability with my project group in Software Development class. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Aside from school, I love cooking, watching Sixers’ games (Trust The Process) and investing in stocks. 
 
-What else do you need?
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
