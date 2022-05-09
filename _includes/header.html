@@ -21,7 +21,6 @@
 {% endif %}
 
 <header class="header-section {% if page.cover-img %}has-img{% endif %}">
-<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
 {% if page.cover-img %}
 <div class="big-img intro-header">
   <div class="container-md">
@@ -93,5 +92,7 @@
 
 
 {% else %}
-<div class="intro-header"></div>
+<div class="intro-header">
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
+</div>
 {% endif %}
