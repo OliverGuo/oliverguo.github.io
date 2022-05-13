@@ -1,9 +1,11 @@
+---
 layout: page
 title: Projects
 share-title: Muqi Guo | Projects
 share-description: Some personal and collaborative projects I’ve worked on.
 comments: true
 carbonads: true
+---
 
 - **[UberPick](https://muqiguo.shinyapps.io/UberPick/)** - A data visualization application implemented using R and Shiny to identify the Uber pickups pattern in NYC based on 664,000 rows of data observations.
 
