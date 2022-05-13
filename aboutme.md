@@ -9,8 +9,7 @@ Hi, I'm Muqi and I'm originally from Chengdu, China.
 Before Grinnell, I went to high school in Central Philadelphia.
 
 ### Projects
-
-Take a look at this [Projects](/project) page to get an overview of my current work.
+Take a look at my [Projects](/project) page to get an overview of my work.
 
 ### Skills
 **Languages**: Python, JavaScript, R, C, Java, Haskell, Racket, HTML, CSS
@@ -19,7 +18,7 @@ Take a look at this [Projects](/project) page to get an overview of my current w
 ### Hobbies
 I love cooking, working out, ultimate frisbee, watching Sixers’ games (Trust The Process) and stock investment. 
 
-### My cats
+### My cat(more to come!)
 ![My first cat!](/assets/img/tmall.jpg)
 
 
