@@ -3,7 +3,8 @@ layout: page
 title: About Me
 subtitle: Who Am I
 ---
-![me](/assets/img/me.jpg)
+![Me playing beach ultimate](/assets/img/me.jpg)
+
 Hi, I'm Muqi and I'm originally from Chengdu, China. 
 Before Grinnell, I went to high school in Central Philadelphia.
 
@@ -16,9 +17,9 @@ Take a look at this [Projects](/project) page to get an overview of my current w
 **Tools/Packages/Frameworks**: D3, Shiny, Leaflet, ggplot2, DiagrammeR, Git, Agile, Scrum
 
 ### Hobbies
-I love cooking, working out, watching Sixers’ games (Trust The Process) and stock investment. 
+I love cooking, working out, ultimate frisbee, watching Sixers’ games (Trust The Process) and stock investment. 
 
 ### My cats
-![cats](/assets/img/tmall.jpg)
+![My first cat!](/assets/img/tmall.jpg)
 
 
