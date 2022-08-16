@@ -3,7 +3,7 @@ layout: page
 title: About Me
 subtitle: Who Am I
 ---
-![Me playing beach ultimate](/assets/img/me.jpg)
+<!-- ![Me playing beach ultimate](/assets/img/me.jpg) -->
 
 ### My cat
 ![My first cat!](/assets/img/tmall.jpg)
