@@ -15,12 +15,10 @@ author: Muqi Guo
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  
-  About Me: "aboutme"
-  Resume: "resume"
   Project: "project"
-  #Papers: "papers"
-  
+  Resume: "resume"
+  About Me: "aboutme"
+
   #Blog: "blog"
 
 # --- Logo --- #
@@ -42,7 +40,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "guomuqi@grinnell.edu"
+  email: "9076oliver@gmail.com"
   github: "OliverGuo"
 #  medium: yourname
 #  reddit: yourname
@@ -95,7 +93,7 @@ feed_show_tags: true
 post_search: true
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "muqi,computer science,grinnell, guo, muqiguo"
+keywords: "muqi, computer science, grinnell, guo, muqiguo, Oliver, Muqi"
 
 # --- Colours / background image --- #
 
