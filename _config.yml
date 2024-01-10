@@ -19,7 +19,7 @@ navbar-links:
   Resume: "resume"
   About Me: "aboutme"
 
-  Blog: "blog"
+  # Blog: "blog"
 
 # --- Logo --- #
 
