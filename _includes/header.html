@@ -56,15 +56,12 @@
   {% if page.cover-img %}<span class='img-desc'></span>{% endif %}
 </div>
 
-{% else %}
-  <div class="intro-header">
-    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
-  </div>
-{% endif %}
-</header>
-
 {% if page.header-extra %}
   {% for file in page.header-extra %}
     {% include {{ file }} %}
   {% endfor %}
 {% endif %}
+
+</header>
+
+
