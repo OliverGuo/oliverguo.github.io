@@ -40,7 +40,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: "/assets/img/head.jpeg"
 
 
 #####################################
@@ -96,7 +96,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# url-pretty: "MyWebsite.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -122,7 +122,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "muqi, computer science, grinnell, guo, muqiguo, Oliver, Muqi, Drexel"
+keywords: "muqi, computer science, grinnell, guo, muqiguo, Oliver, Muqi, Drexel, NLP"
 
 ######################################
 # --- Colours / background image --- #
@@ -184,10 +184,7 @@ gtag: "G-8HV3PKGSJD"
 #  uri: "demo.wiki.pro"
 #  opt-out: true
 
-# Google Universal Analytics ID -- deprecated
-# As of July 2023 this is no longer supported by Google! If you are still using `google_analytics`,
-# you should switch to using the `gtag` field above instead.
-#google_analytics: "UA-XXXXXXXX-X"
+
 
 ####################
 # --- Comments --- #
