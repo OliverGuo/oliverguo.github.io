@@ -23,7 +23,7 @@ author: Muqi Guo
 navbar-links:
   Project: "project"
   Resume: "resume"
-  About Me: "aboutme"
+  # About Me: "aboutme"
 
   # Blog: "blog"
 
