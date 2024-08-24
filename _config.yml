@@ -21,7 +21,7 @@ repository               : "OliverGuo/oliverguo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Profile.jpeg"
+  avatar           : "Profile.jpeg"
   name             : "Muqi (Oliver) Guo"
   pronouns         : # example: "she/her"  
   bio              : "Master's student in Computer Science at Drexel University"
@@ -75,12 +75,13 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+'Coming Soon'
+  # books:
+  #   title: 'Books'
+  # manuscripts:
+  #   title: 'Journal Articles'    
+  # conferences:
+  #   title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
