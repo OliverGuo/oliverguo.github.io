@@ -21,12 +21,12 @@ repository               : "OliverGuo/oliverguo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile.jpeg"
+  avatar           : "images/Profile.jpeg"
   name             : "Muqi (Oliver) Guo"
   pronouns         : # example: "she/her"  
   bio              : "Master's student in Computer Science at Drexel University"
   location         : "Philadelphia"
-  employer         : "Drexel University"
+  employer         : #"Drexel University"
   uri              : # URL
   email            : "mg3857@drexel.edu" 
 
@@ -145,7 +145,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "google-analytics-4" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          : G-8HV3PKGSJD
 
