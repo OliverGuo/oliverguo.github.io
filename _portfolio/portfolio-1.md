@@ -4,5 +4,5 @@ excerpt: "A data visualization application implemented using R and Shiny to iden
 collection: portfolio
 ---
 
-**[UberPick](https://muqiguo.shinyapps.io/UberPick/)** 
+**Check out it out [here](https://muqiguo.shinyapps.io/UberPick/)** 
 

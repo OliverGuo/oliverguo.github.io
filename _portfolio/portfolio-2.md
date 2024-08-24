@@ -6,4 +6,4 @@ collection: portfolio
 
 
 
-**[IfThen](https://muqiguo.shinyapps.io/ifThen/)**
+**Check out it out [here](https://muqiguo.shinyapps.io/ifThen/)**

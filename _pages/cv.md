@@ -14,6 +14,9 @@ Education
 * M.S. in Computer Science, Drexel University, 2025
 * B.A. in Computer Science, Grinnell College, 2023
 
+Research Interests
+======
+Computational Social Science, Natural Language Processing.
 <!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
