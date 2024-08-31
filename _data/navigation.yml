@@ -13,7 +13,9 @@ main:
 
   - title: "Publications"
     url: /publications/
-
+    
+  - title: "Schulte Table"
+    url: /schulteTable/
   # - title: "Talks"
   #   url: /talks/    
 
