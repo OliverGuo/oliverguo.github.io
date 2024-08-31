@@ -15,9 +15,10 @@ main:
     url: /publications/
 
   - title: "Schulte Table"
-    url: /pages/schulteTable.html
-  # - title: "Talks"
-  #   url: /talks/    
+    url: /schulteTable/
+
+  - title: "Talks"
+    url: /talks/    
 
   # - title: "Teaching"
   #   url: /teaching/    
