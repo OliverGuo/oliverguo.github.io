@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "IMG_1809.JPG"
   name             : "Muqi (moo-chee) Guo"
-  pronouns         : "he/him"  
+  pronouns         : #"he/him"  
   bio              : "Master's in Computer Science at Drexel University"
   location         : "Philadelphia"
   employer         : #"Drexel University"
