@@ -1,7 +1,7 @@
 ---
 title: "From #Dr00gtiktok to #harmreduction: Exploring Substance Use Hashtags on TikTok"
 collection: publications
-# category: manuscripts
+category: conferences
 permalink: /publication/TikTok_paper
 excerpt: ''
 date: 2025-1-27
