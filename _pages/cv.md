@@ -21,11 +21,6 @@ Computational Social Science, Natural Language Processing (NLP), Computational S
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-## Research Experience
-Research Assistant @ Social NLP Lab, Department of Information Science, Drexel University, March 2024 - Present
-
-## Teaching Experience
-Teaching Assistant @ Grinnell College, January 2022 – December 2022
 
 
 
