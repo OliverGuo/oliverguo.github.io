@@ -1,11 +1,11 @@
 ---
 title: "From #Dr00gtiktok to #harmreduction: Exploring Substance Use Hashtags on TikTok"
 collection: publications
-category: conferences
+category: preprints
 permalink: /publication/TikTok_paper
 excerpt: ''
 date: 2025-1-27
-# venue: 'GitHub Journal of Bugs'
+venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2501.16123'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
