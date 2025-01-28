@@ -9,35 +9,24 @@ redirect_from:
 
 {% include base_path %}
 ## Research Interests
-======
 Computational Social Science, Natural Language Processing (NLP), Computational Sociolinguistics, NLP for Social Good
 
 ## Education
-======
-**Drexel University** | Philadelphia, PA  
-Master of Science in Computer Science | *September 2023 - June 2025*
-
-**Grinnell College** | Grinnell, IA  
-Bachelor of Arts in Computer Science | *August 2019 - May 2023*
+* Master of Science in Computer Science, Drexel University, 2023 - 2025
+* Bachelor of Arts in Computer Science, Grinnell College, 2019 - 2023
 
 ## Publications
-======
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 ## Research Experience
-======
-### Research Assistant | Social NLP Lab, Department of Information Science, Drexel University
-*Philadelphia, PA | March 2024 - Present*
-
+Research Assistant @ Social NLP Lab, Department of Information Science, Drexel University, March 2024 - Present
 
 ## Teaching Experience
-======
-### Teaching Assistant | Grinnell College
-*Grinnell, IA | January 2022 – December 2022*
-- Conducted weekly 3-hour mentor sessions
-- Created supplemental practice problems for 20+ students
+Teaching Assistant @ Grinnell College, January 2022 – December 2022
+
 
 
 
